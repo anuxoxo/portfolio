@@ -1,0 +1,122 @@
+{
+  "main": {
+    "name": "Kumari Anushka",
+    "occupation": "Software Engineer",
+    "description": "Passionate about building impactful web applications with React.",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I'm Kumari Anushka, a dedicated Software Engineer with a strong background in frontend development. Currently, I am a Lead Frontend Developer at Assiduus Global Inc., where I specialize in creating dynamic and user-friendly web applications using modern technologies like React, Redux, and Webpack. I have also worked as a Senior Frontend Developer at MyDash, contributing to various large-scale projects. My journey began with a gold medal in BCA, where I developed a passion for coding and a drive to help others succeed in their careers. I'm constantly learning and exploring new technologies, and I'm eager to make a positive impact in the tech world.",
+    "contactmessage": "Feel free to reach out to connect or collaborate!",
+    "email": "anushka.ak14@gmail.com",
+    "address": {
+      "city": "Bengaluru",
+      "state": "Karnataka"
+    },
+    "website": "https://www.anushka.dev",
+    "resumedownload": "https://drive.google.com/file/d/1nziFT3U8zKIdCM8EzKnZFEHC2Btz8vCm/view?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/kumari-anushka-1410",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/anuxoxo",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "degree": "Master's Degree, Computer Applications (MCA)",
+        "graduated": "Expected 2026",
+        "description": "Pursuing MCA with a focus on software development and advanced computer science concepts."
+      },
+      {
+        "school": "Bangalore University",
+        "degree": "Bachelor's Degree, Computer Applications (BCA)",
+        "graduated": "May 2023",
+        "description": "Graduated with a Gold Medal and a Merit Scholarship."
+      }
+    ],
+    "work": [
+      {
+        "company": "Assiduus Global Inc.",
+        "title": "Lead Frontend Developer",
+        "years": "May 2023 - Present",
+        "description": "Leading the development of scalable and user-friendly web applications using React, Redux, and Webpack."
+      },
+      {
+        "company": "MyDash",
+        "title": "Senior Frontend Developer",
+        "years": "June 2022 - April 2023",
+        "description": "Developed and maintained complex web applications, ensuring optimal performance and usability."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "90%"
+      },
+      {
+        "name": "HTML/CSS",
+        "level": "92%"
+      },
+      {
+        "name": "Git",
+        "level": "90%"
+      },
+      {
+        "name": "SQL",
+        "level": "90%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Travelmate",
+        "category": "React, Firebase, Node, Express",
+        "image": "travelmate.png",
+        "url": "https://travelmate.vanshchinda.dev"
+      },
+      {
+        "title": "Tesla Clone",
+        "category": "HTML, CSS, Bootstrap",
+        "image": "tesla.png",
+        "url": "https://anuxoxo.github.io/tesla/"
+      },
+      {
+        "title": "Resume Generator",
+        "category": "HTML, CSS, Javascript",
+        "image": "resume.png",
+        "url": "https://resume-gen.netlify.app"
+      },
+      {
+        "title": "Whatsapp Clone",
+        "category": "React, Firebase",
+        "image": "whatsapp.png",
+        "url": "https://notesapp-anushka.netlify.app"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Anushka's skills in React and frontend development are truly impressive. She brings creativity and precision to every project.",
+        "user": "Yasin Gulam"
+      },
+      {
+        "text": "Working with Anushka has been a pleasure; her coding skills and dedication are top-notch.",
+        "user": "Viyogi Anand"
+      }
+    ]
+  }
+}
